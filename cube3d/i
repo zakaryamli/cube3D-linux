@@ -1,0 +1,4350 @@
+height = 29, width = 26
+[                          ]
+[ 111111111111111111111111 ]
+[ 100000000000000000000001 ]
+[ 100000000000000000000001 ]
+[ 100000000N00000000000001 ]
+[ 100000000000000000000001 ]
+[ 100000000000000000000001 ]
+[ 100000000000000000000001 ]
+[ 100000111110000101010001 ]
+[ 100000100010000000000001 ]
+[ 100000100010000100010001 ]
+[ 100000100010000000000001 ]
+[ 100000111100001010100001 ]
+[ 100000000000000000000001 ]
+[ 100000000000000000000001 ]
+[ 100000000000000000000001 ]
+[ 100000000000000000000001 ]
+[ 100000000000000000000001 ]
+[ 100000000000000000000001 ]
+[ 100000000000000000000001 ]
+[ 111111111000000000000001 ]
+[ 100100001000000000000001 ]
+[ 100000101000000000000001 ]
+[ 100100001000000000000001 ]
+[ 100111111000000000000001 ]
+[ 100000000000000000000001 ]
+[ 100000000000000000000001 ]
+[ 111111111111111111111111 ]
+[                          ]
+ray->distance = 28.867513
+>>>ray id : 0 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.851376
+>>>ray id : 1 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.835283
+>>>ray id : 2 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.819235
+>>>ray id : 3 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.803232
+>>>ray id : 4 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.787274
+>>>ray id : 5 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.771361
+>>>ray id : 6 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.755492
+>>>ray id : 7 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.739668
+>>>ray id : 8 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.723889
+>>>ray id : 9 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.708153
+>>>ray id : 10 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.692462
+>>>ray id : 11 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.676815
+>>>ray id : 12 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.661211
+>>>ray id : 13 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.645652
+>>>ray id : 14 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.630137
+>>>ray id : 15 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.614665
+>>>ray id : 16 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.599236
+>>>ray id : 17 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.583852
+>>>ray id : 18 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.568510
+>>>ray id : 19 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.553212
+>>>ray id : 20 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.537957
+>>>ray id : 21 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.522746
+>>>ray id : 22 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.507577
+>>>ray id : 23 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.492451
+>>>ray id : 24 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.477368
+>>>ray id : 25 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.462327
+>>>ray id : 26 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.447330
+>>>ray id : 27 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.432374
+>>>ray id : 28 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.417461
+>>>ray id : 29 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.402591
+>>>ray id : 30 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.387763
+>>>ray id : 31 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.372976
+>>>ray id : 32 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.358232
+>>>ray id : 33 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.343530
+>>>ray id : 34 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.328870
+>>>ray id : 35 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.314251
+>>>ray id : 36 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.299674
+>>>ray id : 37 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.285139
+>>>ray id : 38 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.270645
+>>>ray id : 39 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.256193
+>>>ray id : 40 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.241782
+>>>ray id : 41 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.227412
+>>>ray id : 42 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.213083
+>>>ray id : 43 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.198795
+>>>ray id : 44 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.184549
+>>>ray id : 45 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.170343
+>>>ray id : 46 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.156178
+>>>ray id : 47 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.142053
+>>>ray id : 48 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.127969
+>>>ray id : 49 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.113926
+>>>ray id : 50 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.099923
+>>>ray id : 51 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.085960
+>>>ray id : 52 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.072038
+>>>ray id : 53 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.058156
+>>>ray id : 54 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.044314
+>>>ray id : 55 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.030512
+>>>ray id : 56 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.016750
+>>>ray id : 57 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.003027
+>>>ray id : 58 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.989344
+>>>ray id : 59 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.975702
+>>>ray id : 60 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.962098
+>>>ray id : 61 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.948534
+>>>ray id : 62 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.935010
+>>>ray id : 63 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.921524
+>>>ray id : 64 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.908078
+>>>ray id : 65 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.894672
+>>>ray id : 66 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.881304
+>>>ray id : 67 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.867975
+>>>ray id : 68 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.854685
+>>>ray id : 69 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.841434
+>>>ray id : 70 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.828222
+>>>ray id : 71 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.815049
+>>>ray id : 72 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.801914
+>>>ray id : 73 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.788817
+>>>ray id : 74 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.775759
+>>>ray id : 75 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.762739
+>>>ray id : 76 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.749758
+>>>ray id : 77 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.736815
+>>>ray id : 78 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.723910
+>>>ray id : 79 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.711043
+>>>ray id : 80 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.698214
+>>>ray id : 81 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.685422
+>>>ray id : 82 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.672669
+>>>ray id : 83 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.659953
+>>>ray id : 84 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.647275
+>>>ray id : 85 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.634635
+>>>ray id : 86 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.622032
+>>>ray id : 87 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.609467
+>>>ray id : 88 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.596939
+>>>ray id : 89 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.584448
+>>>ray id : 90 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.571994
+>>>ray id : 91 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.559578
+>>>ray id : 92 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.547199
+>>>ray id : 93 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.534856
+>>>ray id : 94 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.522551
+>>>ray id : 95 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.510282
+>>>ray id : 96 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.498050
+>>>ray id : 97 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.485855
+>>>ray id : 98 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.473697
+>>>ray id : 99 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.461575
+>>>ray id : 100 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.449489
+>>>ray id : 101 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.437440
+>>>ray id : 102 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.425428
+>>>ray id : 103 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.413451
+>>>ray id : 104 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.401511
+>>>ray id : 105 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.389607
+>>>ray id : 106 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.377739
+>>>ray id : 107 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.365907
+>>>ray id : 108 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.354111
+>>>ray id : 109 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.342351
+>>>ray id : 110 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.330626
+>>>ray id : 111 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.318938
+>>>ray id : 112 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.307285
+>>>ray id : 113 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.295667
+>>>ray id : 114 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.284085
+>>>ray id : 115 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.272539
+>>>ray id : 116 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.261028
+>>>ray id : 117 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.249552
+>>>ray id : 118 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.238111
+>>>ray id : 119 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.226706
+>>>ray id : 120 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.215336
+>>>ray id : 121 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.204001
+>>>ray id : 122 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.192701
+>>>ray id : 123 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.181435
+>>>ray id : 124 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.170205
+>>>ray id : 125 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.159009
+>>>ray id : 126 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.147849
+>>>ray id : 127 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.136722
+>>>ray id : 128 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.125631
+>>>ray id : 129 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.114574
+>>>ray id : 130 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.103551
+>>>ray id : 131 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.092563
+>>>ray id : 132 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.081610
+>>>ray id : 133 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.070690
+>>>ray id : 134 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.059805
+>>>ray id : 135 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.048954
+>>>ray id : 136 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.038137
+>>>ray id : 137 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.027354
+>>>ray id : 138 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.016605
+>>>ray id : 139 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.005890
+>>>ray id : 140 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.995209
+>>>ray id : 141 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.984562
+>>>ray id : 142 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.973948
+>>>ray id : 143 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.963369
+>>>ray id : 144 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.952822
+>>>ray id : 145 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.942310
+>>>ray id : 146 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.931831
+>>>ray id : 147 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.921385
+>>>ray id : 148 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.910973
+>>>ray id : 149 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.900594
+>>>ray id : 150 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.890248
+>>>ray id : 151 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.879935
+>>>ray id : 152 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.869656
+>>>ray id : 153 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.859410
+>>>ray id : 154 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.849197
+>>>ray id : 155 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.839016
+>>>ray id : 156 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.828869
+>>>ray id : 157 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.818755
+>>>ray id : 158 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.808673
+>>>ray id : 159 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.798624
+>>>ray id : 160 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.788608
+>>>ray id : 161 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.778625
+>>>ray id : 162 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.768674
+>>>ray id : 163 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.758756
+>>>ray id : 164 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.748870
+>>>ray id : 165 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.739016
+>>>ray id : 166 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.729195
+>>>ray id : 167 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.719407
+>>>ray id : 168 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.709650
+>>>ray id : 169 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.699926
+>>>ray id : 170 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.690234
+>>>ray id : 171 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.680574
+>>>ray id : 172 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.670946
+>>>ray id : 173 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.661350
+>>>ray id : 174 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.651786
+>>>ray id : 175 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.642254
+>>>ray id : 176 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.632754
+>>>ray id : 177 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.623286
+>>>ray id : 178 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.613849
+>>>ray id : 179 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.604444
+>>>ray id : 180 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.595071
+>>>ray id : 181 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.585729
+>>>ray id : 182 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.576419
+>>>ray id : 183 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.567140
+>>>ray id : 184 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.557893
+>>>ray id : 185 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.548677
+>>>ray id : 186 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.539493
+>>>ray id : 187 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.530339
+>>>ray id : 188 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.521217
+>>>ray id : 189 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.512127
+>>>ray id : 190 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.503067
+>>>ray id : 191 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.494038
+>>>ray id : 192 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.485041
+>>>ray id : 193 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.476074
+>>>ray id : 194 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.467139
+>>>ray id : 195 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.458234
+>>>ray id : 196 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.449360
+>>>ray id : 197 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.440517
+>>>ray id : 198 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.431705
+>>>ray id : 199 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.422923
+>>>ray id : 200 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.414172
+>>>ray id : 201 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.405452
+>>>ray id : 202 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.396762
+>>>ray id : 203 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.388103
+>>>ray id : 204 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.379474
+>>>ray id : 205 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.370876
+>>>ray id : 206 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.362308
+>>>ray id : 207 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.353770
+>>>ray id : 208 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.345263
+>>>ray id : 209 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.336786
+>>>ray id : 210 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.328339
+>>>ray id : 211 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.319922
+>>>ray id : 212 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.311535
+>>>ray id : 213 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.303179
+>>>ray id : 214 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.294852
+>>>ray id : 215 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.286556
+>>>ray id : 216 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.278289
+>>>ray id : 217 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.270052
+>>>ray id : 218 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.261845
+>>>ray id : 219 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.253668
+>>>ray id : 220 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.245521
+>>>ray id : 221 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.237403
+>>>ray id : 222 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.229315
+>>>ray id : 223 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.221257
+>>>ray id : 224 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.213228
+>>>ray id : 225 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.205229
+>>>ray id : 226 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.197259
+>>>ray id : 227 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.189319
+>>>ray id : 228 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.181408
+>>>ray id : 229 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.173527
+>>>ray id : 230 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.165675
+>>>ray id : 231 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.157852
+>>>ray id : 232 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.150058
+>>>ray id : 233 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.142294
+>>>ray id : 234 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.134559
+>>>ray id : 235 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.126853
+>>>ray id : 236 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.119176
+>>>ray id : 237 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.111528
+>>>ray id : 238 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.103909
+>>>ray id : 239 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.096319
+>>>ray id : 240 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.088758
+>>>ray id : 241 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.081226
+>>>ray id : 242 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.073723
+>>>ray id : 243 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.066248
+>>>ray id : 244 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.058803
+>>>ray id : 245 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.051386
+>>>ray id : 246 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.043998
+>>>ray id : 247 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.036638
+>>>ray id : 248 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.029307
+>>>ray id : 249 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.022005
+>>>ray id : 250 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.014731
+>>>ray id : 251 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.007486
+>>>ray id : 252 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.000269
+>>>ray id : 253 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.993081
+>>>ray id : 254 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.985921
+>>>ray id : 255 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.978789
+>>>ray id : 256 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.971686
+>>>ray id : 257 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.964611
+>>>ray id : 258 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.957564
+>>>ray id : 259 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.950546
+>>>ray id : 260 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.943555
+>>>ray id : 261 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.936593
+>>>ray id : 262 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.929659
+>>>ray id : 263 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.922753
+>>>ray id : 264 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.915875
+>>>ray id : 265 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.909025
+>>>ray id : 266 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.902203
+>>>ray id : 267 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.895409
+>>>ray id : 268 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.888643
+>>>ray id : 269 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.881905
+>>>ray id : 270 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.875194
+>>>ray id : 271 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.868511
+>>>ray id : 272 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.861856
+>>>ray id : 273 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.855229
+>>>ray id : 274 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.848630
+>>>ray id : 275 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.842058
+>>>ray id : 276 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.835514
+>>>ray id : 277 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.828997
+>>>ray id : 278 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.822508
+>>>ray id : 279 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.816046
+>>>ray id : 280 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.809612
+>>>ray id : 281 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.803206
+>>>ray id : 282 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.796826
+>>>ray id : 283 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.790475
+>>>ray id : 284 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.784150
+>>>ray id : 285 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.777853
+>>>ray id : 286 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.771583
+>>>ray id : 287 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.765341
+>>>ray id : 288 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.759125
+>>>ray id : 289 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.752937
+>>>ray id : 290 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.746776
+>>>ray id : 291 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.740643
+>>>ray id : 292 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.734536
+>>>ray id : 293 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.728456
+>>>ray id : 294 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.722404
+>>>ray id : 295 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.716378
+>>>ray id : 296 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.710380
+>>>ray id : 297 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.704408
+>>>ray id : 298 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.698464
+>>>ray id : 299 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.692546
+>>>ray id : 300 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.686655
+>>>ray id : 301 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.680791
+>>>ray id : 302 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.674954
+>>>ray id : 303 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.669143
+>>>ray id : 304 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.663360
+>>>ray id : 305 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.657603
+>>>ray id : 306 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.651872
+>>>ray id : 307 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.646169
+>>>ray id : 308 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.640492
+>>>ray id : 309 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.634841
+>>>ray id : 310 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.629218
+>>>ray id : 311 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.623620
+>>>ray id : 312 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.618050
+>>>ray id : 313 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.612506
+>>>ray id : 314 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.606988
+>>>ray id : 315 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.601497
+>>>ray id : 316 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.596032
+>>>ray id : 317 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.590593
+>>>ray id : 318 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.585181
+>>>ray id : 319 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.579795
+>>>ray id : 320 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.574436
+>>>ray id : 321 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.569103
+>>>ray id : 322 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.563796
+>>>ray id : 323 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.558515
+>>>ray id : 324 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.553260
+>>>ray id : 325 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.548032
+>>>ray id : 326 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.542830
+>>>ray id : 327 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.537654
+>>>ray id : 328 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.532504
+>>>ray id : 329 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.527380
+>>>ray id : 330 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.522282
+>>>ray id : 331 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.517210
+>>>ray id : 332 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.512164
+>>>ray id : 333 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.507144
+>>>ray id : 334 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.502150
+>>>ray id : 335 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.497182
+>>>ray id : 336 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.492240
+>>>ray id : 337 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.487324
+>>>ray id : 338 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.482434
+>>>ray id : 339 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.477569
+>>>ray id : 340 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.472730
+>>>ray id : 341 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.467917
+>>>ray id : 342 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.463130
+>>>ray id : 343 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.458369
+>>>ray id : 344 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.453633
+>>>ray id : 345 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.448923
+>>>ray id : 346 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.444238
+>>>ray id : 347 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.439579
+>>>ray id : 348 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.434946
+>>>ray id : 349 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.430339
+>>>ray id : 350 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.425757
+>>>ray id : 351 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.421200
+>>>ray id : 352 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.416669
+>>>ray id : 353 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.412164
+>>>ray id : 354 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.407684
+>>>ray id : 355 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.403229
+>>>ray id : 356 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.398800
+>>>ray id : 357 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.394396
+>>>ray id : 358 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.390018
+>>>ray id : 359 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.385665
+>>>ray id : 360 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.381338
+>>>ray id : 361 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.377036
+>>>ray id : 362 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.372759
+>>>ray id : 363 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.368507
+>>>ray id : 364 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.364281
+>>>ray id : 365 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.360080
+>>>ray id : 366 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.355904
+>>>ray id : 367 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.351753
+>>>ray id : 368 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.347627
+>>>ray id : 369 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.343527
+>>>ray id : 370 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.339452
+>>>ray id : 371 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.335402
+>>>ray id : 372 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.331377
+>>>ray id : 373 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.327377
+>>>ray id : 374 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.323402
+>>>ray id : 375 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.319453
+>>>ray id : 376 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.315528
+>>>ray id : 377 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.311628
+>>>ray id : 378 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.307753
+>>>ray id : 379 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.303904
+>>>ray id : 380 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.300079
+>>>ray id : 381 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.296279
+>>>ray id : 382 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.292504
+>>>ray id : 383 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.288754
+>>>ray id : 384 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.285029
+>>>ray id : 385 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.281329
+>>>ray id : 386 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.277653
+>>>ray id : 387 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.274003
+>>>ray id : 388 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.270377
+>>>ray id : 389 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.266776
+>>>ray id : 390 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.263200
+>>>ray id : 391 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.259648
+>>>ray id : 392 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.256121
+>>>ray id : 393 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.252619
+>>>ray id : 394 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.249142
+>>>ray id : 395 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.245689
+>>>ray id : 396 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.242261
+>>>ray id : 397 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.238858
+>>>ray id : 398 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.235479
+>>>ray id : 399 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.232125
+>>>ray id : 400 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.228796
+>>>ray id : 401 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.225491
+>>>ray id : 402 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.222211
+>>>ray id : 403 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.218955
+>>>ray id : 404 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.215724
+>>>ray id : 405 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.212517
+>>>ray id : 406 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.209335
+>>>ray id : 407 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.206178
+>>>ray id : 408 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.203045
+>>>ray id : 409 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.199936
+>>>ray id : 410 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.196852
+>>>ray id : 411 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.193792
+>>>ray id : 412 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.190757
+>>>ray id : 413 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.187746
+>>>ray id : 414 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.184759
+>>>ray id : 415 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.181797
+>>>ray id : 416 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.178859
+>>>ray id : 417 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.175946
+>>>ray id : 418 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.173057
+>>>ray id : 419 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.170192
+>>>ray id : 420 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.167351
+>>>ray id : 421 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.164535
+>>>ray id : 422 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.161743
+>>>ray id : 423 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.158976
+>>>ray id : 424 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.156232
+>>>ray id : 425 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.153513
+>>>ray id : 426 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.150818
+>>>ray id : 427 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.148148
+>>>ray id : 428 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.145501
+>>>ray id : 429 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.142879
+>>>ray id : 430 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.140281
+>>>ray id : 431 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.137707
+>>>ray id : 432 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.135157
+>>>ray id : 433 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.132632
+>>>ray id : 434 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.130130
+>>>ray id : 435 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.127653
+>>>ray id : 436 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.125200
+>>>ray id : 437 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.122770
+>>>ray id : 438 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.120365
+>>>ray id : 439 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.117984
+>>>ray id : 440 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.115627
+>>>ray id : 441 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.113294
+>>>ray id : 442 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.110986
+>>>ray id : 443 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.108701
+>>>ray id : 444 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.106440
+>>>ray id : 445 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.104203
+>>>ray id : 446 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.101990
+>>>ray id : 447 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.099802
+>>>ray id : 448 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.097637
+>>>ray id : 449 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.095496
+>>>ray id : 450 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.093379
+>>>ray id : 451 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.091286
+>>>ray id : 452 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.089217
+>>>ray id : 453 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.087172
+>>>ray id : 454 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.085151
+>>>ray id : 455 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.083153
+>>>ray id : 456 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.081180
+>>>ray id : 457 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.079231
+>>>ray id : 458 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.077305
+>>>ray id : 459 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.075403
+>>>ray id : 460 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.073525
+>>>ray id : 461 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.071671
+>>>ray id : 462 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.069841
+>>>ray id : 463 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.068035
+>>>ray id : 464 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.066252
+>>>ray id : 465 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.064493
+>>>ray id : 466 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.062759
+>>>ray id : 467 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.061047
+>>>ray id : 468 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.059360
+>>>ray id : 469 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.057697
+>>>ray id : 470 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.056057
+>>>ray id : 471 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.054441
+>>>ray id : 472 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.052849
+>>>ray id : 473 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.051280
+>>>ray id : 474 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.049735
+>>>ray id : 475 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.048214
+>>>ray id : 476 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.046717
+>>>ray id : 477 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.045244
+>>>ray id : 478 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.043794
+>>>ray id : 479 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.042368
+>>>ray id : 480 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.040965
+>>>ray id : 481 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.039587
+>>>ray id : 482 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.038232
+>>>ray id : 483 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.036900
+>>>ray id : 484 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.035593
+>>>ray id : 485 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.034309
+>>>ray id : 486 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.033048
+>>>ray id : 487 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.031812
+>>>ray id : 488 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.030599
+>>>ray id : 489 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.029409
+>>>ray id : 490 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.028244
+>>>ray id : 491 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.027102
+>>>ray id : 492 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.025983
+>>>ray id : 493 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.024888
+>>>ray id : 494 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.023817
+>>>ray id : 495 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.022770
+>>>ray id : 496 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.021746
+>>>ray id : 497 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.020745
+>>>ray id : 498 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.019768
+>>>ray id : 499 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.018815
+>>>ray id : 500 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.017886
+>>>ray id : 501 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.016980
+>>>ray id : 502 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.016097
+>>>ray id : 503 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.015239
+>>>ray id : 504 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.014403
+>>>ray id : 505 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.013592
+>>>ray id : 506 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.012804
+>>>ray id : 507 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.012039
+>>>ray id : 508 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.011298
+>>>ray id : 509 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.010581
+>>>ray id : 510 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.009887
+>>>ray id : 511 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.009217
+>>>ray id : 512 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.008570
+>>>ray id : 513 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.007947
+>>>ray id : 514 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.007347
+>>>ray id : 515 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.006771
+>>>ray id : 516 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.006218
+>>>ray id : 517 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.005689
+>>>ray id : 518 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.005184
+>>>ray id : 519 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.004702
+>>>ray id : 520 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.004243
+>>>ray id : 521 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.003808
+>>>ray id : 522 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.003397
+>>>ray id : 523 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.003009
+>>>ray id : 524 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.002644
+>>>ray id : 525 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.002304
+>>>ray id : 526 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.001986
+>>>ray id : 527 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.001692
+>>>ray id : 528 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.001422
+>>>ray id : 529 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.001175
+>>>ray id : 530 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000952
+>>>ray id : 531 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000752
+>>>ray id : 532 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000576
+>>>ray id : 533 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000423
+>>>ray id : 534 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000294
+>>>ray id : 535 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000188
+>>>ray id : 536 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000106
+>>>ray id : 537 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000047
+>>>ray id : 538 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000012
+>>>ray id : 539 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000000
+>>>ray id : 540 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000012
+>>>ray id : 541 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000047
+>>>ray id : 542 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000106
+>>>ray id : 543 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000188
+>>>ray id : 544 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000294
+>>>ray id : 545 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000423
+>>>ray id : 546 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000576
+>>>ray id : 547 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000752
+>>>ray id : 548 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000952
+>>>ray id : 549 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.001175
+>>>ray id : 550 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.001422
+>>>ray id : 551 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.001692
+>>>ray id : 552 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.001986
+>>>ray id : 553 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.002304
+>>>ray id : 554 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.002644
+>>>ray id : 555 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.003009
+>>>ray id : 556 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.003397
+>>>ray id : 557 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.003808
+>>>ray id : 558 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.004243
+>>>ray id : 559 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.004702
+>>>ray id : 560 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.005184
+>>>ray id : 561 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.005689
+>>>ray id : 562 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.006218
+>>>ray id : 563 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.006771
+>>>ray id : 564 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.007347
+>>>ray id : 565 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.007947
+>>>ray id : 566 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.008570
+>>>ray id : 567 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.009217
+>>>ray id : 568 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.009887
+>>>ray id : 569 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.010581
+>>>ray id : 570 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.011298
+>>>ray id : 571 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.012039
+>>>ray id : 572 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.012804
+>>>ray id : 573 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.013592
+>>>ray id : 574 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.014403
+>>>ray id : 575 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.015239
+>>>ray id : 576 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.016097
+>>>ray id : 577 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.016980
+>>>ray id : 578 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.017886
+>>>ray id : 579 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.018815
+>>>ray id : 580 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.019768
+>>>ray id : 581 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.020745
+>>>ray id : 582 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.021746
+>>>ray id : 583 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.022770
+>>>ray id : 584 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.023817
+>>>ray id : 585 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.024888
+>>>ray id : 586 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.025983
+>>>ray id : 587 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.027102
+>>>ray id : 588 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.028244
+>>>ray id : 589 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.029409
+>>>ray id : 590 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.030599
+>>>ray id : 591 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.031812
+>>>ray id : 592 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.033048
+>>>ray id : 593 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.034309
+>>>ray id : 594 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.035593
+>>>ray id : 595 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.036900
+>>>ray id : 596 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.038232
+>>>ray id : 597 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.039587
+>>>ray id : 598 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.040965
+>>>ray id : 599 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.042368
+>>>ray id : 600 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.043794
+>>>ray id : 601 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.045244
+>>>ray id : 602 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.046717
+>>>ray id : 603 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.048214
+>>>ray id : 604 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.049735
+>>>ray id : 605 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.051280
+>>>ray id : 606 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.052849
+>>>ray id : 607 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.054441
+>>>ray id : 608 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.056057
+>>>ray id : 609 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.057697
+>>>ray id : 610 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.059360
+>>>ray id : 611 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.061047
+>>>ray id : 612 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.062759
+>>>ray id : 613 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.064493
+>>>ray id : 614 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.066252
+>>>ray id : 615 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.068035
+>>>ray id : 616 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.069841
+>>>ray id : 617 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.071671
+>>>ray id : 618 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.073525
+>>>ray id : 619 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.075403
+>>>ray id : 620 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.077305
+>>>ray id : 621 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.079231
+>>>ray id : 622 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.081180
+>>>ray id : 623 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.083153
+>>>ray id : 624 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.085151
+>>>ray id : 625 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.087172
+>>>ray id : 626 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.089217
+>>>ray id : 627 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.091286
+>>>ray id : 628 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.093379
+>>>ray id : 629 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.095496
+>>>ray id : 630 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.097637
+>>>ray id : 631 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.099802
+>>>ray id : 632 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.101990
+>>>ray id : 633 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.104203
+>>>ray id : 634 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.106440
+>>>ray id : 635 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.108701
+>>>ray id : 636 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.110986
+>>>ray id : 637 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.113294
+>>>ray id : 638 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.115627
+>>>ray id : 639 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.117984
+>>>ray id : 640 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.120365
+>>>ray id : 641 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.122770
+>>>ray id : 642 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.125200
+>>>ray id : 643 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.127653
+>>>ray id : 644 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.130130
+>>>ray id : 645 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.132632
+>>>ray id : 646 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.135157
+>>>ray id : 647 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.137707
+>>>ray id : 648 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.140281
+>>>ray id : 649 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.142879
+>>>ray id : 650 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.145501
+>>>ray id : 651 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.148148
+>>>ray id : 652 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.150818
+>>>ray id : 653 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.153513
+>>>ray id : 654 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.156232
+>>>ray id : 655 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.158976
+>>>ray id : 656 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.161743
+>>>ray id : 657 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.164535
+>>>ray id : 658 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.167351
+>>>ray id : 659 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.170192
+>>>ray id : 660 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.173057
+>>>ray id : 661 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.175946
+>>>ray id : 662 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.178859
+>>>ray id : 663 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.181797
+>>>ray id : 664 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.184759
+>>>ray id : 665 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.187746
+>>>ray id : 666 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.190757
+>>>ray id : 667 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.193792
+>>>ray id : 668 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.196852
+>>>ray id : 669 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.199936
+>>>ray id : 670 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.203045
+>>>ray id : 671 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.206178
+>>>ray id : 672 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.209335
+>>>ray id : 673 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.212517
+>>>ray id : 674 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.215724
+>>>ray id : 675 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.218955
+>>>ray id : 676 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.222211
+>>>ray id : 677 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.225491
+>>>ray id : 678 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.228796
+>>>ray id : 679 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.232125
+>>>ray id : 680 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.235479
+>>>ray id : 681 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.238858
+>>>ray id : 682 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.242261
+>>>ray id : 683 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.245689
+>>>ray id : 684 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.249142
+>>>ray id : 685 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.252619
+>>>ray id : 686 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.256121
+>>>ray id : 687 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.259648
+>>>ray id : 688 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.263200
+>>>ray id : 689 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.266776
+>>>ray id : 690 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.270377
+>>>ray id : 691 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.274003
+>>>ray id : 692 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.277653
+>>>ray id : 693 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.281329
+>>>ray id : 694 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.285029
+>>>ray id : 695 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.288754
+>>>ray id : 696 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.292504
+>>>ray id : 697 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.296279
+>>>ray id : 698 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.300079
+>>>ray id : 699 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.303904
+>>>ray id : 700 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.307753
+>>>ray id : 701 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.311628
+>>>ray id : 702 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.315528
+>>>ray id : 703 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.319453
+>>>ray id : 704 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.323402
+>>>ray id : 705 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.327377
+>>>ray id : 706 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.331377
+>>>ray id : 707 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.335402
+>>>ray id : 708 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.339452
+>>>ray id : 709 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.343527
+>>>ray id : 710 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.347627
+>>>ray id : 711 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.351753
+>>>ray id : 712 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.355904
+>>>ray id : 713 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.360080
+>>>ray id : 714 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.364281
+>>>ray id : 715 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.368507
+>>>ray id : 716 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.372759
+>>>ray id : 717 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.377036
+>>>ray id : 718 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.381338
+>>>ray id : 719 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.385665
+>>>ray id : 720 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.390018
+>>>ray id : 721 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.394396
+>>>ray id : 722 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.398800
+>>>ray id : 723 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.403229
+>>>ray id : 724 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.407684
+>>>ray id : 725 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.412164
+>>>ray id : 726 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.416669
+>>>ray id : 727 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.421200
+>>>ray id : 728 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.425757
+>>>ray id : 729 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.430339
+>>>ray id : 730 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.434946
+>>>ray id : 731 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.439579
+>>>ray id : 732 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.444238
+>>>ray id : 733 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.448923
+>>>ray id : 734 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.453633
+>>>ray id : 735 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.458369
+>>>ray id : 736 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.463130
+>>>ray id : 737 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.467917
+>>>ray id : 738 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.472730
+>>>ray id : 739 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.477569
+>>>ray id : 740 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.482434
+>>>ray id : 741 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.487324
+>>>ray id : 742 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.492240
+>>>ray id : 743 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.497182
+>>>ray id : 744 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.502150
+>>>ray id : 745 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.507144
+>>>ray id : 746 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.512164
+>>>ray id : 747 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.517210
+>>>ray id : 748 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.522282
+>>>ray id : 749 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.527380
+>>>ray id : 750 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.532504
+>>>ray id : 751 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.537654
+>>>ray id : 752 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.542830
+>>>ray id : 753 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.548032
+>>>ray id : 754 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.553260
+>>>ray id : 755 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.558515
+>>>ray id : 756 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.563796
+>>>ray id : 757 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.569103
+>>>ray id : 758 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.574436
+>>>ray id : 759 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.579795
+>>>ray id : 760 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.585181
+>>>ray id : 761 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.590593
+>>>ray id : 762 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.596032
+>>>ray id : 763 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.601497
+>>>ray id : 764 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.606988
+>>>ray id : 765 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.612506
+>>>ray id : 766 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.618050
+>>>ray id : 767 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.623620
+>>>ray id : 768 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.629218
+>>>ray id : 769 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.634841
+>>>ray id : 770 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.640492
+>>>ray id : 771 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.646169
+>>>ray id : 772 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.651872
+>>>ray id : 773 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.657603
+>>>ray id : 774 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.663360
+>>>ray id : 775 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.669143
+>>>ray id : 776 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.674954
+>>>ray id : 777 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.680791
+>>>ray id : 778 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.686655
+>>>ray id : 779 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.692546
+>>>ray id : 780 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.698464
+>>>ray id : 781 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.704408
+>>>ray id : 782 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.710380
+>>>ray id : 783 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.716378
+>>>ray id : 784 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.722404
+>>>ray id : 785 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.728456
+>>>ray id : 786 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.734536
+>>>ray id : 787 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.740643
+>>>ray id : 788 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.746776
+>>>ray id : 789 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.752937
+>>>ray id : 790 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.759125
+>>>ray id : 791 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.765341
+>>>ray id : 792 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.771583
+>>>ray id : 793 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.777853
+>>>ray id : 794 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.784150
+>>>ray id : 795 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.790475
+>>>ray id : 796 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.796826
+>>>ray id : 797 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.803206
+>>>ray id : 798 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.809612
+>>>ray id : 799 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.816046
+>>>ray id : 800 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.822508
+>>>ray id : 801 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.828997
+>>>ray id : 802 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.835514
+>>>ray id : 803 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.842058
+>>>ray id : 804 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.848630
+>>>ray id : 805 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.855229
+>>>ray id : 806 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.861856
+>>>ray id : 807 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.868511
+>>>ray id : 808 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.875194
+>>>ray id : 809 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.881905
+>>>ray id : 810 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.888643
+>>>ray id : 811 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.895409
+>>>ray id : 812 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.902203
+>>>ray id : 813 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.909025
+>>>ray id : 814 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.915875
+>>>ray id : 815 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.922753
+>>>ray id : 816 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.929659
+>>>ray id : 817 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.936593
+>>>ray id : 818 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.943555
+>>>ray id : 819 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.950546
+>>>ray id : 820 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.957564
+>>>ray id : 821 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.964611
+>>>ray id : 822 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.971686
+>>>ray id : 823 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.978789
+>>>ray id : 824 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.985921
+>>>ray id : 825 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.993081
+>>>ray id : 826 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.000269
+>>>ray id : 827 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.007486
+>>>ray id : 828 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.014731
+>>>ray id : 829 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.022005
+>>>ray id : 830 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.029307
+>>>ray id : 831 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.036638
+>>>ray id : 832 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.043998
+>>>ray id : 833 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.051386
+>>>ray id : 834 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.058803
+>>>ray id : 835 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.066248
+>>>ray id : 836 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.073723
+>>>ray id : 837 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.081226
+>>>ray id : 838 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.088758
+>>>ray id : 839 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.096319
+>>>ray id : 840 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.103909
+>>>ray id : 841 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.111528
+>>>ray id : 842 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.119176
+>>>ray id : 843 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.126853
+>>>ray id : 844 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.134559
+>>>ray id : 845 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.142294
+>>>ray id : 846 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.150058
+>>>ray id : 847 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.157852
+>>>ray id : 848 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.165675
+>>>ray id : 849 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.173527
+>>>ray id : 850 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.181408
+>>>ray id : 851 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.189319
+>>>ray id : 852 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.197259
+>>>ray id : 853 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.205229
+>>>ray id : 854 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.213228
+>>>ray id : 855 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.221257
+>>>ray id : 856 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.229315
+>>>ray id : 857 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.237403
+>>>ray id : 858 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.245521
+>>>ray id : 859 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.253668
+>>>ray id : 860 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.261845
+>>>ray id : 861 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.270052
+>>>ray id : 862 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.278289
+>>>ray id : 863 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.286556
+>>>ray id : 864 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.294852
+>>>ray id : 865 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.303179
+>>>ray id : 866 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.311535
+>>>ray id : 867 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.319922
+>>>ray id : 868 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.328339
+>>>ray id : 869 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.336786
+>>>ray id : 870 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.345263
+>>>ray id : 871 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.353770
+>>>ray id : 872 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.362308
+>>>ray id : 873 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.370876
+>>>ray id : 874 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.379474
+>>>ray id : 875 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.388103
+>>>ray id : 876 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.396762
+>>>ray id : 877 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.405452
+>>>ray id : 878 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.414172
+>>>ray id : 879 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.422923
+>>>ray id : 880 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.431705
+>>>ray id : 881 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.440517
+>>>ray id : 882 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.449360
+>>>ray id : 883 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.458234
+>>>ray id : 884 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.467139
+>>>ray id : 885 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.476074
+>>>ray id : 886 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.485041
+>>>ray id : 887 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.494038
+>>>ray id : 888 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.503067
+>>>ray id : 889 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.512127
+>>>ray id : 890 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.521217
+>>>ray id : 891 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.530339
+>>>ray id : 892 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.539493
+>>>ray id : 893 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.548677
+>>>ray id : 894 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.557893
+>>>ray id : 895 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.567140
+>>>ray id : 896 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.576419
+>>>ray id : 897 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.585729
+>>>ray id : 898 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.595071
+>>>ray id : 899 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.604444
+>>>ray id : 900 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.613849
+>>>ray id : 901 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.623286
+>>>ray id : 902 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.632754
+>>>ray id : 903 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.642254
+>>>ray id : 904 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.651786
+>>>ray id : 905 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.661350
+>>>ray id : 906 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.670946
+>>>ray id : 907 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.680574
+>>>ray id : 908 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.690234
+>>>ray id : 909 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.699926
+>>>ray id : 910 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.709650
+>>>ray id : 911 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.719407
+>>>ray id : 912 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.729195
+>>>ray id : 913 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.739016
+>>>ray id : 914 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.748870
+>>>ray id : 915 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.758756
+>>>ray id : 916 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.768674
+>>>ray id : 917 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.778625
+>>>ray id : 918 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.788608
+>>>ray id : 919 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.798624
+>>>ray id : 920 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.808673
+>>>ray id : 921 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.818755
+>>>ray id : 922 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.828869
+>>>ray id : 923 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.839016
+>>>ray id : 924 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.849197
+>>>ray id : 925 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.859410
+>>>ray id : 926 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.869656
+>>>ray id : 927 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.879935
+>>>ray id : 928 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.890248
+>>>ray id : 929 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.900594
+>>>ray id : 930 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.910973
+>>>ray id : 931 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.921385
+>>>ray id : 932 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.931831
+>>>ray id : 933 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.942310
+>>>ray id : 934 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.952822
+>>>ray id : 935 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.963369
+>>>ray id : 936 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.973948
+>>>ray id : 937 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.984562
+>>>ray id : 938 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.995209
+>>>ray id : 939 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.005890
+>>>ray id : 940 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.016605
+>>>ray id : 941 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.027354
+>>>ray id : 942 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.038137
+>>>ray id : 943 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.048954
+>>>ray id : 944 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.059805
+>>>ray id : 945 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.070690
+>>>ray id : 946 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.081610
+>>>ray id : 947 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.092563
+>>>ray id : 948 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.103551
+>>>ray id : 949 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.114574
+>>>ray id : 950 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.125631
+>>>ray id : 951 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.136722
+>>>ray id : 952 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.147849
+>>>ray id : 953 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.159009
+>>>ray id : 954 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.170205
+>>>ray id : 955 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.181435
+>>>ray id : 956 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.192701
+>>>ray id : 957 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.204001
+>>>ray id : 958 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.215336
+>>>ray id : 959 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.226706
+>>>ray id : 960 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.238111
+>>>ray id : 961 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.249552
+>>>ray id : 962 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.261028
+>>>ray id : 963 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.272539
+>>>ray id : 964 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.284085
+>>>ray id : 965 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.295667
+>>>ray id : 966 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.307285
+>>>ray id : 967 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.318938
+>>>ray id : 968 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.330626
+>>>ray id : 969 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.342351
+>>>ray id : 970 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.354111
+>>>ray id : 971 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.365907
+>>>ray id : 972 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.377739
+>>>ray id : 973 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.389607
+>>>ray id : 974 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.401511
+>>>ray id : 975 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.413451
+>>>ray id : 976 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.425428
+>>>ray id : 977 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.437440
+>>>ray id : 978 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.449489
+>>>ray id : 979 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.461575
+>>>ray id : 980 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.473697
+>>>ray id : 981 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.485855
+>>>ray id : 982 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.498050
+>>>ray id : 983 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.510282
+>>>ray id : 984 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.522551
+>>>ray id : 985 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.534856
+>>>ray id : 986 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.547199
+>>>ray id : 987 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.559578
+>>>ray id : 988 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.571994
+>>>ray id : 989 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.584448
+>>>ray id : 990 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.596939
+>>>ray id : 991 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.609467
+>>>ray id : 992 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.622032
+>>>ray id : 993 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.634635
+>>>ray id : 994 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.647275
+>>>ray id : 995 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.659953
+>>>ray id : 996 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.672669
+>>>ray id : 997 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.685422
+>>>ray id : 998 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.698214
+>>>ray id : 999 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.711043
+>>>ray id : 1000 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.723910
+>>>ray id : 1001 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.736815
+>>>ray id : 1002 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.749758
+>>>ray id : 1003 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.762739
+>>>ray id : 1004 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.775759
+>>>ray id : 1005 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.788817
+>>>ray id : 1006 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.801914
+>>>ray id : 1007 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.815049
+>>>ray id : 1008 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.828222
+>>>ray id : 1009 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.841434
+>>>ray id : 1010 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.854685
+>>>ray id : 1011 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.867975
+>>>ray id : 1012 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.881304
+>>>ray id : 1013 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.894672
+>>>ray id : 1014 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.908078
+>>>ray id : 1015 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.921524
+>>>ray id : 1016 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.935010
+>>>ray id : 1017 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.948534
+>>>ray id : 1018 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.962098
+>>>ray id : 1019 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.975702
+>>>ray id : 1020 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.989344
+>>>ray id : 1021 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.003027
+>>>ray id : 1022 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.016750
+>>>ray id : 1023 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.030512
+>>>ray id : 1024 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.044314
+>>>ray id : 1025 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.058156
+>>>ray id : 1026 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.072038
+>>>ray id : 1027 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.085960
+>>>ray id : 1028 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.099923
+>>>ray id : 1029 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.113926
+>>>ray id : 1030 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.127969
+>>>ray id : 1031 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.142053
+>>>ray id : 1032 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.156178
+>>>ray id : 1033 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.170343
+>>>ray id : 1034 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.184549
+>>>ray id : 1035 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.198795
+>>>ray id : 1036 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.213083
+>>>ray id : 1037 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.227412
+>>>ray id : 1038 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.241782
+>>>ray id : 1039 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.256193
+>>>ray id : 1040 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.270645
+>>>ray id : 1041 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.285139
+>>>ray id : 1042 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.299674
+>>>ray id : 1043 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.314251
+>>>ray id : 1044 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.328870
+>>>ray id : 1045 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.343530
+>>>ray id : 1046 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.358232
+>>>ray id : 1047 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.372976
+>>>ray id : 1048 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.387763
+>>>ray id : 1049 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.402591
+>>>ray id : 1050 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.417461
+>>>ray id : 1051 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.432374
+>>>ray id : 1052 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.447330
+>>>ray id : 1053 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.462327
+>>>ray id : 1054 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.477368
+>>>ray id : 1055 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.492451
+>>>ray id : 1056 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.507577
+>>>ray id : 1057 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.522746
+>>>ray id : 1058 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.537957
+>>>ray id : 1059 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.553212
+>>>ray id : 1060 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.568510
+>>>ray id : 1061 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.583852
+>>>ray id : 1062 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.599236
+>>>ray id : 1063 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.614665
+>>>ray id : 1064 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.630137
+>>>ray id : 1065 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.645652
+>>>ray id : 1066 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.661211
+>>>ray id : 1067 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.676815
+>>>ray id : 1068 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.692462
+>>>ray id : 1069 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.708153
+>>>ray id : 1070 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.723889
+>>>ray id : 1071 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.739668
+>>>ray id : 1072 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.755492
+>>>ray id : 1073 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.771361
+>>>ray id : 1074 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.787274
+>>>ray id : 1075 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.803232
+>>>ray id : 1076 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.819235
+>>>ray id : 1077 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.835283
+>>>ray id : 1078 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.851376
+>>>ray id : 1079 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.058156
+>>>ray id : 0 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.044314
+>>>ray id : 1 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.030512
+>>>ray id : 2 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.016750
+>>>ray id : 3 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.003027
+>>>ray id : 4 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.989344
+>>>ray id : 5 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.975702
+>>>ray id : 6 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.962098
+>>>ray id : 7 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.948534
+>>>ray id : 8 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.935010
+>>>ray id : 9 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.921524
+>>>ray id : 10 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.908078
+>>>ray id : 11 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.894672
+>>>ray id : 12 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.881304
+>>>ray id : 13 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.867975
+>>>ray id : 14 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.854685
+>>>ray id : 15 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.841434
+>>>ray id : 16 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.828222
+>>>ray id : 17 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.815049
+>>>ray id : 18 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.801914
+>>>ray id : 19 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.788817
+>>>ray id : 20 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.775759
+>>>ray id : 21 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.762739
+>>>ray id : 22 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.749758
+>>>ray id : 23 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.736815
+>>>ray id : 24 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.723910
+>>>ray id : 25 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.711043
+>>>ray id : 26 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.698214
+>>>ray id : 27 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.685422
+>>>ray id : 28 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.672669
+>>>ray id : 29 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.659953
+>>>ray id : 30 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.647275
+>>>ray id : 31 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.634635
+>>>ray id : 32 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.622032
+>>>ray id : 33 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.609467
+>>>ray id : 34 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.596939
+>>>ray id : 35 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.584448
+>>>ray id : 36 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.571994
+>>>ray id : 37 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.559578
+>>>ray id : 38 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.547199
+>>>ray id : 39 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.534856
+>>>ray id : 40 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.522551
+>>>ray id : 41 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.510282
+>>>ray id : 42 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.498050
+>>>ray id : 43 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.485855
+>>>ray id : 44 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.473697
+>>>ray id : 45 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.461575
+>>>ray id : 46 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.449489
+>>>ray id : 47 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.437440
+>>>ray id : 48 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.425428
+>>>ray id : 49 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.413451
+>>>ray id : 50 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.401511
+>>>ray id : 51 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.389607
+>>>ray id : 52 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.377739
+>>>ray id : 53 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.365907
+>>>ray id : 54 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.354111
+>>>ray id : 55 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.342351
+>>>ray id : 56 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.330626
+>>>ray id : 57 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.318938
+>>>ray id : 58 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.307285
+>>>ray id : 59 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.295667
+>>>ray id : 60 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.284085
+>>>ray id : 61 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.272539
+>>>ray id : 62 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.261028
+>>>ray id : 63 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.249552
+>>>ray id : 64 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.238111
+>>>ray id : 65 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.226706
+>>>ray id : 66 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.215336
+>>>ray id : 67 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.204001
+>>>ray id : 68 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.192701
+>>>ray id : 69 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.181435
+>>>ray id : 70 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.170205
+>>>ray id : 71 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.159009
+>>>ray id : 72 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.147849
+>>>ray id : 73 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.136722
+>>>ray id : 74 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.125631
+>>>ray id : 75 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.114574
+>>>ray id : 76 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.103551
+>>>ray id : 77 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.092563
+>>>ray id : 78 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.081610
+>>>ray id : 79 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.070690
+>>>ray id : 80 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.059805
+>>>ray id : 81 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.048954
+>>>ray id : 82 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.038137
+>>>ray id : 83 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.027354
+>>>ray id : 84 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.016605
+>>>ray id : 85 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.005890
+>>>ray id : 86 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.995209
+>>>ray id : 87 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.984562
+>>>ray id : 88 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.973948
+>>>ray id : 89 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.963369
+>>>ray id : 90 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.952822
+>>>ray id : 91 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.942310
+>>>ray id : 92 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.931831
+>>>ray id : 93 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.921385
+>>>ray id : 94 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.910973
+>>>ray id : 95 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.900594
+>>>ray id : 96 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.890248
+>>>ray id : 97 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.879935
+>>>ray id : 98 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.869656
+>>>ray id : 99 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.859410
+>>>ray id : 100 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.849197
+>>>ray id : 101 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.839016
+>>>ray id : 102 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.828869
+>>>ray id : 103 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.818755
+>>>ray id : 104 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.808673
+>>>ray id : 105 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.798624
+>>>ray id : 106 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.788608
+>>>ray id : 107 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.778625
+>>>ray id : 108 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.768674
+>>>ray id : 109 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.758756
+>>>ray id : 110 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.748870
+>>>ray id : 111 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.739016
+>>>ray id : 112 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.729195
+>>>ray id : 113 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.719407
+>>>ray id : 114 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.709650
+>>>ray id : 115 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.699926
+>>>ray id : 116 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.690234
+>>>ray id : 117 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.680574
+>>>ray id : 118 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.670946
+>>>ray id : 119 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.661350
+>>>ray id : 120 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.651786
+>>>ray id : 121 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.642254
+>>>ray id : 122 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.632754
+>>>ray id : 123 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.623286
+>>>ray id : 124 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.613849
+>>>ray id : 125 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.604444
+>>>ray id : 126 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.595071
+>>>ray id : 127 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.585729
+>>>ray id : 128 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.576419
+>>>ray id : 129 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.567140
+>>>ray id : 130 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.557893
+>>>ray id : 131 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.548677
+>>>ray id : 132 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.539493
+>>>ray id : 133 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.530339
+>>>ray id : 134 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.521217
+>>>ray id : 135 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.512127
+>>>ray id : 136 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.503067
+>>>ray id : 137 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.494038
+>>>ray id : 138 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.485041
+>>>ray id : 139 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.476074
+>>>ray id : 140 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.467139
+>>>ray id : 141 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.458234
+>>>ray id : 142 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.449360
+>>>ray id : 143 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.440517
+>>>ray id : 144 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.431705
+>>>ray id : 145 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.422923
+>>>ray id : 146 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.414172
+>>>ray id : 147 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.405452
+>>>ray id : 148 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.396762
+>>>ray id : 149 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.388103
+>>>ray id : 150 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.379474
+>>>ray id : 151 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.370876
+>>>ray id : 152 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.362308
+>>>ray id : 153 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.353770
+>>>ray id : 154 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.345263
+>>>ray id : 155 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.336786
+>>>ray id : 156 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.328339
+>>>ray id : 157 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.319922
+>>>ray id : 158 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.311535
+>>>ray id : 159 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.303179
+>>>ray id : 160 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.294852
+>>>ray id : 161 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.286556
+>>>ray id : 162 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.278289
+>>>ray id : 163 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.270052
+>>>ray id : 164 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.261845
+>>>ray id : 165 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.253668
+>>>ray id : 166 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.245521
+>>>ray id : 167 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.237403
+>>>ray id : 168 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.229315
+>>>ray id : 169 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.221257
+>>>ray id : 170 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.213228
+>>>ray id : 171 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.205229
+>>>ray id : 172 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.197259
+>>>ray id : 173 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.189319
+>>>ray id : 174 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.181408
+>>>ray id : 175 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.173527
+>>>ray id : 176 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.165675
+>>>ray id : 177 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.157852
+>>>ray id : 178 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.150058
+>>>ray id : 179 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.142294
+>>>ray id : 180 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.134559
+>>>ray id : 181 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.126853
+>>>ray id : 182 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.119176
+>>>ray id : 183 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.111528
+>>>ray id : 184 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.103909
+>>>ray id : 185 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.096319
+>>>ray id : 186 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.088758
+>>>ray id : 187 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.081226
+>>>ray id : 188 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.073723
+>>>ray id : 189 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.066248
+>>>ray id : 190 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.058803
+>>>ray id : 191 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.051386
+>>>ray id : 192 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.043998
+>>>ray id : 193 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.036638
+>>>ray id : 194 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.029307
+>>>ray id : 195 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.022005
+>>>ray id : 196 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.014731
+>>>ray id : 197 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.007486
+>>>ray id : 198 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.000269
+>>>ray id : 199 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.993081
+>>>ray id : 200 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.985921
+>>>ray id : 201 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.978789
+>>>ray id : 202 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.971686
+>>>ray id : 203 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.964611
+>>>ray id : 204 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.957564
+>>>ray id : 205 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.950546
+>>>ray id : 206 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.943555
+>>>ray id : 207 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.936593
+>>>ray id : 208 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.929659
+>>>ray id : 209 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.922753
+>>>ray id : 210 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.915875
+>>>ray id : 211 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.909025
+>>>ray id : 212 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.902203
+>>>ray id : 213 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.895409
+>>>ray id : 214 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.888643
+>>>ray id : 215 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.881905
+>>>ray id : 216 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.875194
+>>>ray id : 217 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.868511
+>>>ray id : 218 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.861856
+>>>ray id : 219 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.855229
+>>>ray id : 220 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.848630
+>>>ray id : 221 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.842058
+>>>ray id : 222 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.835514
+>>>ray id : 223 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.828997
+>>>ray id : 224 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.822508
+>>>ray id : 225 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.816046
+>>>ray id : 226 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.809612
+>>>ray id : 227 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.803206
+>>>ray id : 228 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.796826
+>>>ray id : 229 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.790475
+>>>ray id : 230 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.784150
+>>>ray id : 231 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.777853
+>>>ray id : 232 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.771583
+>>>ray id : 233 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.765341
+>>>ray id : 234 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.759125
+>>>ray id : 235 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.752937
+>>>ray id : 236 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.746776
+>>>ray id : 237 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.740643
+>>>ray id : 238 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.734536
+>>>ray id : 239 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.728456
+>>>ray id : 240 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.722404
+>>>ray id : 241 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.716378
+>>>ray id : 242 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.710380
+>>>ray id : 243 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.704408
+>>>ray id : 244 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.698464
+>>>ray id : 245 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.692546
+>>>ray id : 246 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.686655
+>>>ray id : 247 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.680791
+>>>ray id : 248 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.674954
+>>>ray id : 249 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.669143
+>>>ray id : 250 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.663360
+>>>ray id : 251 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.657603
+>>>ray id : 252 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.651872
+>>>ray id : 253 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.646169
+>>>ray id : 254 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.640492
+>>>ray id : 255 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.634841
+>>>ray id : 256 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.629218
+>>>ray id : 257 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.623620
+>>>ray id : 258 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.618050
+>>>ray id : 259 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.612506
+>>>ray id : 260 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.606988
+>>>ray id : 261 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.601497
+>>>ray id : 262 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.596032
+>>>ray id : 263 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.590593
+>>>ray id : 264 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.585181
+>>>ray id : 265 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.579795
+>>>ray id : 266 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.574436
+>>>ray id : 267 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.569103
+>>>ray id : 268 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.563796
+>>>ray id : 269 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.558515
+>>>ray id : 270 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.553260
+>>>ray id : 271 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.548032
+>>>ray id : 272 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.542830
+>>>ray id : 273 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.537654
+>>>ray id : 274 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.532504
+>>>ray id : 275 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.527380
+>>>ray id : 276 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.522282
+>>>ray id : 277 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.517210
+>>>ray id : 278 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.512164
+>>>ray id : 279 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.507144
+>>>ray id : 280 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.502150
+>>>ray id : 281 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.497182
+>>>ray id : 282 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.492240
+>>>ray id : 283 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.487324
+>>>ray id : 284 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.482434
+>>>ray id : 285 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.477569
+>>>ray id : 286 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.472730
+>>>ray id : 287 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.467917
+>>>ray id : 288 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.463130
+>>>ray id : 289 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.458369
+>>>ray id : 290 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.453633
+>>>ray id : 291 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.448923
+>>>ray id : 292 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.444238
+>>>ray id : 293 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.439579
+>>>ray id : 294 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.434946
+>>>ray id : 295 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.430339
+>>>ray id : 296 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.425757
+>>>ray id : 297 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.421200
+>>>ray id : 298 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.416669
+>>>ray id : 299 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.412164
+>>>ray id : 300 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.407684
+>>>ray id : 301 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.403229
+>>>ray id : 302 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.398800
+>>>ray id : 303 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.394396
+>>>ray id : 304 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.390018
+>>>ray id : 305 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.385665
+>>>ray id : 306 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.381338
+>>>ray id : 307 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.377036
+>>>ray id : 308 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.372759
+>>>ray id : 309 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.368507
+>>>ray id : 310 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.364281
+>>>ray id : 311 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.360080
+>>>ray id : 312 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.355904
+>>>ray id : 313 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.351753
+>>>ray id : 314 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.347627
+>>>ray id : 315 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.343527
+>>>ray id : 316 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.339452
+>>>ray id : 317 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.335402
+>>>ray id : 318 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.331377
+>>>ray id : 319 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.327377
+>>>ray id : 320 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.323402
+>>>ray id : 321 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.319453
+>>>ray id : 322 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.315528
+>>>ray id : 323 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.311628
+>>>ray id : 324 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.307753
+>>>ray id : 325 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.303904
+>>>ray id : 326 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.300079
+>>>ray id : 327 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.296279
+>>>ray id : 328 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.292504
+>>>ray id : 329 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.288754
+>>>ray id : 330 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.285029
+>>>ray id : 331 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.281329
+>>>ray id : 332 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.277653
+>>>ray id : 333 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.274003
+>>>ray id : 334 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.270377
+>>>ray id : 335 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.266776
+>>>ray id : 336 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.263200
+>>>ray id : 337 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.259648
+>>>ray id : 338 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.256121
+>>>ray id : 339 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.252619
+>>>ray id : 340 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.249142
+>>>ray id : 341 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.245689
+>>>ray id : 342 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.242261
+>>>ray id : 343 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.238858
+>>>ray id : 344 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.235479
+>>>ray id : 345 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.232125
+>>>ray id : 346 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.228796
+>>>ray id : 347 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.225491
+>>>ray id : 348 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.222211
+>>>ray id : 349 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.218955
+>>>ray id : 350 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.215724
+>>>ray id : 351 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.212517
+>>>ray id : 352 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.209335
+>>>ray id : 353 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.206178
+>>>ray id : 354 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.203045
+>>>ray id : 355 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.199936
+>>>ray id : 356 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.196852
+>>>ray id : 357 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.193792
+>>>ray id : 358 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.190757
+>>>ray id : 359 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.187746
+>>>ray id : 360 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.184759
+>>>ray id : 361 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.181797
+>>>ray id : 362 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.178859
+>>>ray id : 363 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.175946
+>>>ray id : 364 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.173057
+>>>ray id : 365 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.170192
+>>>ray id : 366 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.167351
+>>>ray id : 367 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.164535
+>>>ray id : 368 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.161743
+>>>ray id : 369 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.158976
+>>>ray id : 370 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.156232
+>>>ray id : 371 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.153513
+>>>ray id : 372 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.150818
+>>>ray id : 373 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.148148
+>>>ray id : 374 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.145501
+>>>ray id : 375 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.142879
+>>>ray id : 376 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.140281
+>>>ray id : 377 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.137707
+>>>ray id : 378 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.135157
+>>>ray id : 379 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.132632
+>>>ray id : 380 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.130130
+>>>ray id : 381 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.127653
+>>>ray id : 382 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.125200
+>>>ray id : 383 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.122770
+>>>ray id : 384 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.120365
+>>>ray id : 385 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.117984
+>>>ray id : 386 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.115627
+>>>ray id : 387 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.113294
+>>>ray id : 388 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.110986
+>>>ray id : 389 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.108701
+>>>ray id : 390 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.106440
+>>>ray id : 391 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.104203
+>>>ray id : 392 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.101990
+>>>ray id : 393 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.099802
+>>>ray id : 394 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.097637
+>>>ray id : 395 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.095496
+>>>ray id : 396 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.093379
+>>>ray id : 397 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.091286
+>>>ray id : 398 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.089217
+>>>ray id : 399 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.087172
+>>>ray id : 400 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.085151
+>>>ray id : 401 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.083153
+>>>ray id : 402 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.081180
+>>>ray id : 403 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.079231
+>>>ray id : 404 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.077305
+>>>ray id : 405 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.075403
+>>>ray id : 406 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.073525
+>>>ray id : 407 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.071671
+>>>ray id : 408 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.069841
+>>>ray id : 409 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.068035
+>>>ray id : 410 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.066252
+>>>ray id : 411 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.064493
+>>>ray id : 412 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.062759
+>>>ray id : 413 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.061047
+>>>ray id : 414 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.059360
+>>>ray id : 415 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.057697
+>>>ray id : 416 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.056057
+>>>ray id : 417 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.054441
+>>>ray id : 418 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.052849
+>>>ray id : 419 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.051280
+>>>ray id : 420 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.049735
+>>>ray id : 421 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.048214
+>>>ray id : 422 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.046717
+>>>ray id : 423 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.045244
+>>>ray id : 424 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.043794
+>>>ray id : 425 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.042368
+>>>ray id : 426 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.040965
+>>>ray id : 427 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.039587
+>>>ray id : 428 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.038232
+>>>ray id : 429 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.036900
+>>>ray id : 430 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.035593
+>>>ray id : 431 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.034309
+>>>ray id : 432 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.033048
+>>>ray id : 433 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.031812
+>>>ray id : 434 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.030599
+>>>ray id : 435 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.029409
+>>>ray id : 436 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.028244
+>>>ray id : 437 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.027102
+>>>ray id : 438 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.025983
+>>>ray id : 439 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.024888
+>>>ray id : 440 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.023817
+>>>ray id : 441 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.022770
+>>>ray id : 442 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.021746
+>>>ray id : 443 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.020745
+>>>ray id : 444 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.019768
+>>>ray id : 445 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.018815
+>>>ray id : 446 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.017886
+>>>ray id : 447 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.016980
+>>>ray id : 448 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.016097
+>>>ray id : 449 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.015239
+>>>ray id : 450 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.014403
+>>>ray id : 451 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.013592
+>>>ray id : 452 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.012804
+>>>ray id : 453 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.012039
+>>>ray id : 454 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.011298
+>>>ray id : 455 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.010581
+>>>ray id : 456 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.009887
+>>>ray id : 457 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.009217
+>>>ray id : 458 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.008570
+>>>ray id : 459 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.007947
+>>>ray id : 460 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.007347
+>>>ray id : 461 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.006771
+>>>ray id : 462 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.006218
+>>>ray id : 463 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.005689
+>>>ray id : 464 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.005184
+>>>ray id : 465 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.004702
+>>>ray id : 466 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.004243
+>>>ray id : 467 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.003808
+>>>ray id : 468 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.003397
+>>>ray id : 469 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.003009
+>>>ray id : 470 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.002644
+>>>ray id : 471 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.002304
+>>>ray id : 472 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.001986
+>>>ray id : 473 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.001692
+>>>ray id : 474 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.001422
+>>>ray id : 475 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.001175
+>>>ray id : 476 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000952
+>>>ray id : 477 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000752
+>>>ray id : 478 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000576
+>>>ray id : 479 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000423
+>>>ray id : 480 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000294
+>>>ray id : 481 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000188
+>>>ray id : 482 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000106
+>>>ray id : 483 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000047
+>>>ray id : 484 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000012
+>>>ray id : 485 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000000
+>>>ray id : 486 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000012
+>>>ray id : 487 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000047
+>>>ray id : 488 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000106
+>>>ray id : 489 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000188
+>>>ray id : 490 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000294
+>>>ray id : 491 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000423
+>>>ray id : 492 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000576
+>>>ray id : 493 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000752
+>>>ray id : 494 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.000952
+>>>ray id : 495 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.001175
+>>>ray id : 496 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.001422
+>>>ray id : 497 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.001692
+>>>ray id : 498 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.001986
+>>>ray id : 499 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.002304
+>>>ray id : 500 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.002644
+>>>ray id : 501 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.003009
+>>>ray id : 502 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.003397
+>>>ray id : 503 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.003808
+>>>ray id : 504 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.004243
+>>>ray id : 505 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.004702
+>>>ray id : 506 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.005184
+>>>ray id : 507 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.005689
+>>>ray id : 508 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.006218
+>>>ray id : 509 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.006771
+>>>ray id : 510 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.007347
+>>>ray id : 511 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.007947
+>>>ray id : 512 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.008570
+>>>ray id : 513 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.009217
+>>>ray id : 514 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.009887
+>>>ray id : 515 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.010581
+>>>ray id : 516 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.011298
+>>>ray id : 517 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.012039
+>>>ray id : 518 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.012804
+>>>ray id : 519 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.013592
+>>>ray id : 520 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.014403
+>>>ray id : 521 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.015239
+>>>ray id : 522 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.016097
+>>>ray id : 523 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.016980
+>>>ray id : 524 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.017886
+>>>ray id : 525 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.018815
+>>>ray id : 526 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.019768
+>>>ray id : 527 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.020745
+>>>ray id : 528 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.021746
+>>>ray id : 529 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.022770
+>>>ray id : 530 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.023817
+>>>ray id : 531 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.024888
+>>>ray id : 532 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.025983
+>>>ray id : 533 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.027102
+>>>ray id : 534 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.028244
+>>>ray id : 535 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.029409
+>>>ray id : 536 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.030599
+>>>ray id : 537 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.031812
+>>>ray id : 538 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.033048
+>>>ray id : 539 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.034309
+>>>ray id : 540 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.035593
+>>>ray id : 541 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.036900
+>>>ray id : 542 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.038232
+>>>ray id : 543 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.039587
+>>>ray id : 544 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.040965
+>>>ray id : 545 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.042368
+>>>ray id : 546 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.043794
+>>>ray id : 547 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.045244
+>>>ray id : 548 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.046717
+>>>ray id : 549 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.048214
+>>>ray id : 550 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.049735
+>>>ray id : 551 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.051280
+>>>ray id : 552 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.052849
+>>>ray id : 553 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.054441
+>>>ray id : 554 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.056057
+>>>ray id : 555 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.057697
+>>>ray id : 556 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.059360
+>>>ray id : 557 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.061047
+>>>ray id : 558 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.062759
+>>>ray id : 559 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.064493
+>>>ray id : 560 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.066252
+>>>ray id : 561 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.068035
+>>>ray id : 562 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.069841
+>>>ray id : 563 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.071671
+>>>ray id : 564 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.073525
+>>>ray id : 565 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.075403
+>>>ray id : 566 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.077305
+>>>ray id : 567 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.079231
+>>>ray id : 568 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.081180
+>>>ray id : 569 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.083153
+>>>ray id : 570 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.085151
+>>>ray id : 571 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.087172
+>>>ray id : 572 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.089217
+>>>ray id : 573 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.091286
+>>>ray id : 574 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.093379
+>>>ray id : 575 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.095496
+>>>ray id : 576 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.097637
+>>>ray id : 577 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.099802
+>>>ray id : 578 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.101990
+>>>ray id : 579 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.104203
+>>>ray id : 580 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.106440
+>>>ray id : 581 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.108701
+>>>ray id : 582 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.110986
+>>>ray id : 583 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.113294
+>>>ray id : 584 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.115627
+>>>ray id : 585 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.117984
+>>>ray id : 586 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.120365
+>>>ray id : 587 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.122770
+>>>ray id : 588 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.125200
+>>>ray id : 589 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.127653
+>>>ray id : 590 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.130130
+>>>ray id : 591 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.132632
+>>>ray id : 592 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.135157
+>>>ray id : 593 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.137707
+>>>ray id : 594 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.140281
+>>>ray id : 595 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.142879
+>>>ray id : 596 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.145501
+>>>ray id : 597 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.148148
+>>>ray id : 598 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.150818
+>>>ray id : 599 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.153513
+>>>ray id : 600 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.156232
+>>>ray id : 601 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.158976
+>>>ray id : 602 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.161743
+>>>ray id : 603 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.164535
+>>>ray id : 604 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.167351
+>>>ray id : 605 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.170192
+>>>ray id : 606 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.173057
+>>>ray id : 607 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.175946
+>>>ray id : 608 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.178859
+>>>ray id : 609 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.181797
+>>>ray id : 610 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.184759
+>>>ray id : 611 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.187746
+>>>ray id : 612 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.190757
+>>>ray id : 613 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.193792
+>>>ray id : 614 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.196852
+>>>ray id : 615 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.199936
+>>>ray id : 616 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.203045
+>>>ray id : 617 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.206178
+>>>ray id : 618 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.209335
+>>>ray id : 619 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.212517
+>>>ray id : 620 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.215724
+>>>ray id : 621 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.218955
+>>>ray id : 622 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.222211
+>>>ray id : 623 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.225491
+>>>ray id : 624 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.228796
+>>>ray id : 625 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.232125
+>>>ray id : 626 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.235479
+>>>ray id : 627 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.238858
+>>>ray id : 628 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.242261
+>>>ray id : 629 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.245689
+>>>ray id : 630 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.249142
+>>>ray id : 631 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.252619
+>>>ray id : 632 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.256121
+>>>ray id : 633 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.259648
+>>>ray id : 634 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.263200
+>>>ray id : 635 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.266776
+>>>ray id : 636 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.270377
+>>>ray id : 637 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.274003
+>>>ray id : 638 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.277653
+>>>ray id : 639 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.281329
+>>>ray id : 640 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.285029
+>>>ray id : 641 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.288754
+>>>ray id : 642 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.292504
+>>>ray id : 643 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.296279
+>>>ray id : 644 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.300079
+>>>ray id : 645 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.303904
+>>>ray id : 646 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.307753
+>>>ray id : 647 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.311628
+>>>ray id : 648 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.315528
+>>>ray id : 649 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.319453
+>>>ray id : 650 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.323402
+>>>ray id : 651 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.327377
+>>>ray id : 652 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.331377
+>>>ray id : 653 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.335402
+>>>ray id : 654 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.339452
+>>>ray id : 655 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.343527
+>>>ray id : 656 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.347627
+>>>ray id : 657 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.351753
+>>>ray id : 658 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.355904
+>>>ray id : 659 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.360080
+>>>ray id : 660 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.364281
+>>>ray id : 661 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.368507
+>>>ray id : 662 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.372759
+>>>ray id : 663 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.377036
+>>>ray id : 664 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.381338
+>>>ray id : 665 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.385665
+>>>ray id : 666 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.390018
+>>>ray id : 667 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.394396
+>>>ray id : 668 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.398800
+>>>ray id : 669 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.403229
+>>>ray id : 670 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.407684
+>>>ray id : 671 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.412164
+>>>ray id : 672 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.416669
+>>>ray id : 673 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.421200
+>>>ray id : 674 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.425757
+>>>ray id : 675 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.430339
+>>>ray id : 676 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.434946
+>>>ray id : 677 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.439579
+>>>ray id : 678 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.444238
+>>>ray id : 679 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.448923
+>>>ray id : 680 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.453633
+>>>ray id : 681 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.458369
+>>>ray id : 682 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.463130
+>>>ray id : 683 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.467917
+>>>ray id : 684 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.472730
+>>>ray id : 685 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.477569
+>>>ray id : 686 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.482434
+>>>ray id : 687 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.487324
+>>>ray id : 688 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.492240
+>>>ray id : 689 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.497182
+>>>ray id : 690 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.502150
+>>>ray id : 691 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.507144
+>>>ray id : 692 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.512164
+>>>ray id : 693 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.517210
+>>>ray id : 694 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.522282
+>>>ray id : 695 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.527380
+>>>ray id : 696 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.532504
+>>>ray id : 697 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.537654
+>>>ray id : 698 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.542830
+>>>ray id : 699 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.548032
+>>>ray id : 700 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.553260
+>>>ray id : 701 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.558515
+>>>ray id : 702 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.563796
+>>>ray id : 703 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.569103
+>>>ray id : 704 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.574436
+>>>ray id : 705 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.579795
+>>>ray id : 706 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.585181
+>>>ray id : 707 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.590593
+>>>ray id : 708 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.596032
+>>>ray id : 709 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.601497
+>>>ray id : 710 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.606988
+>>>ray id : 711 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.612506
+>>>ray id : 712 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.618050
+>>>ray id : 713 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.623620
+>>>ray id : 714 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.629218
+>>>ray id : 715 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.634841
+>>>ray id : 716 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.640492
+>>>ray id : 717 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.646169
+>>>ray id : 718 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.651872
+>>>ray id : 719 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.657603
+>>>ray id : 720 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.663360
+>>>ray id : 721 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.669143
+>>>ray id : 722 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.674954
+>>>ray id : 723 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.680791
+>>>ray id : 724 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.686655
+>>>ray id : 725 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.692546
+>>>ray id : 726 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.698464
+>>>ray id : 727 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.704408
+>>>ray id : 728 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.710380
+>>>ray id : 729 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.716378
+>>>ray id : 730 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.722404
+>>>ray id : 731 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.728456
+>>>ray id : 732 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.734536
+>>>ray id : 733 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.740643
+>>>ray id : 734 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.746776
+>>>ray id : 735 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.752937
+>>>ray id : 736 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.759125
+>>>ray id : 737 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.765341
+>>>ray id : 738 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.771583
+>>>ray id : 739 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.777853
+>>>ray id : 740 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.784150
+>>>ray id : 741 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.790475
+>>>ray id : 742 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.796826
+>>>ray id : 743 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.803206
+>>>ray id : 744 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.809612
+>>>ray id : 745 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.816046
+>>>ray id : 746 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.822508
+>>>ray id : 747 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.828997
+>>>ray id : 748 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.835514
+>>>ray id : 749 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.842058
+>>>ray id : 750 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.848630
+>>>ray id : 751 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.855229
+>>>ray id : 752 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.861856
+>>>ray id : 753 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.868511
+>>>ray id : 754 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.875194
+>>>ray id : 755 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.881905
+>>>ray id : 756 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.888643
+>>>ray id : 757 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.895409
+>>>ray id : 758 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.902203
+>>>ray id : 759 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.909025
+>>>ray id : 760 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.915875
+>>>ray id : 761 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.922753
+>>>ray id : 762 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.929659
+>>>ray id : 763 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.936593
+>>>ray id : 764 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.943555
+>>>ray id : 765 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.950546
+>>>ray id : 766 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.957564
+>>>ray id : 767 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.964611
+>>>ray id : 768 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.971686
+>>>ray id : 769 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.978789
+>>>ray id : 770 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.985921
+>>>ray id : 771 { north 1 south 0 west 0 east 0} 
+ray->distance = 25.993081
+>>>ray id : 772 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.000269
+>>>ray id : 773 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.007486
+>>>ray id : 774 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.014731
+>>>ray id : 775 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.022005
+>>>ray id : 776 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.029307
+>>>ray id : 777 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.036638
+>>>ray id : 778 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.043998
+>>>ray id : 779 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.051386
+>>>ray id : 780 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.058803
+>>>ray id : 781 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.066248
+>>>ray id : 782 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.073723
+>>>ray id : 783 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.081226
+>>>ray id : 784 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.088758
+>>>ray id : 785 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.096319
+>>>ray id : 786 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.103909
+>>>ray id : 787 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.111528
+>>>ray id : 788 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.119176
+>>>ray id : 789 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.126853
+>>>ray id : 790 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.134559
+>>>ray id : 791 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.142294
+>>>ray id : 792 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.150058
+>>>ray id : 793 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.157852
+>>>ray id : 794 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.165675
+>>>ray id : 795 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.173527
+>>>ray id : 796 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.181408
+>>>ray id : 797 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.189319
+>>>ray id : 798 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.197259
+>>>ray id : 799 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.205229
+>>>ray id : 800 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.213228
+>>>ray id : 801 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.221257
+>>>ray id : 802 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.229315
+>>>ray id : 803 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.237403
+>>>ray id : 804 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.245521
+>>>ray id : 805 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.253668
+>>>ray id : 806 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.261845
+>>>ray id : 807 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.270052
+>>>ray id : 808 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.278289
+>>>ray id : 809 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.286556
+>>>ray id : 810 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.294852
+>>>ray id : 811 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.303179
+>>>ray id : 812 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.311535
+>>>ray id : 813 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.319922
+>>>ray id : 814 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.328339
+>>>ray id : 815 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.336786
+>>>ray id : 816 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.345263
+>>>ray id : 817 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.353770
+>>>ray id : 818 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.362308
+>>>ray id : 819 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.370876
+>>>ray id : 820 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.379474
+>>>ray id : 821 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.388103
+>>>ray id : 822 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.396762
+>>>ray id : 823 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.405452
+>>>ray id : 824 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.414172
+>>>ray id : 825 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.422923
+>>>ray id : 826 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.431705
+>>>ray id : 827 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.440517
+>>>ray id : 828 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.449360
+>>>ray id : 829 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.458234
+>>>ray id : 830 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.467139
+>>>ray id : 831 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.476074
+>>>ray id : 832 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.485041
+>>>ray id : 833 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.494038
+>>>ray id : 834 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.503067
+>>>ray id : 835 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.512127
+>>>ray id : 836 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.521217
+>>>ray id : 837 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.530339
+>>>ray id : 838 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.539493
+>>>ray id : 839 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.548677
+>>>ray id : 840 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.557893
+>>>ray id : 841 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.567140
+>>>ray id : 842 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.576419
+>>>ray id : 843 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.585729
+>>>ray id : 844 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.595071
+>>>ray id : 845 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.604444
+>>>ray id : 846 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.613849
+>>>ray id : 847 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.623286
+>>>ray id : 848 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.632754
+>>>ray id : 849 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.642254
+>>>ray id : 850 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.651786
+>>>ray id : 851 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.661350
+>>>ray id : 852 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.670946
+>>>ray id : 853 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.680574
+>>>ray id : 854 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.690234
+>>>ray id : 855 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.699926
+>>>ray id : 856 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.709650
+>>>ray id : 857 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.719407
+>>>ray id : 858 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.729195
+>>>ray id : 859 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.739016
+>>>ray id : 860 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.748870
+>>>ray id : 861 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.758756
+>>>ray id : 862 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.768674
+>>>ray id : 863 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.778625
+>>>ray id : 864 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.788608
+>>>ray id : 865 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.798624
+>>>ray id : 866 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.808673
+>>>ray id : 867 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.818755
+>>>ray id : 868 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.828869
+>>>ray id : 869 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.839016
+>>>ray id : 870 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.849197
+>>>ray id : 871 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.859410
+>>>ray id : 872 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.869656
+>>>ray id : 873 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.879935
+>>>ray id : 874 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.890248
+>>>ray id : 875 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.900594
+>>>ray id : 876 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.910973
+>>>ray id : 877 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.921385
+>>>ray id : 878 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.931831
+>>>ray id : 879 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.942310
+>>>ray id : 880 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.952822
+>>>ray id : 881 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.963369
+>>>ray id : 882 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.973948
+>>>ray id : 883 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.984562
+>>>ray id : 884 { north 1 south 0 west 0 east 0} 
+ray->distance = 26.995209
+>>>ray id : 885 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.005890
+>>>ray id : 886 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.016605
+>>>ray id : 887 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.027354
+>>>ray id : 888 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.038137
+>>>ray id : 889 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.048954
+>>>ray id : 890 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.059805
+>>>ray id : 891 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.070690
+>>>ray id : 892 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.081610
+>>>ray id : 893 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.092563
+>>>ray id : 894 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.103551
+>>>ray id : 895 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.114574
+>>>ray id : 896 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.125631
+>>>ray id : 897 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.136722
+>>>ray id : 898 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.147849
+>>>ray id : 899 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.159009
+>>>ray id : 900 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.170205
+>>>ray id : 901 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.181435
+>>>ray id : 902 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.192701
+>>>ray id : 903 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.204001
+>>>ray id : 904 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.215336
+>>>ray id : 905 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.226706
+>>>ray id : 906 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.238111
+>>>ray id : 907 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.249552
+>>>ray id : 908 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.261028
+>>>ray id : 909 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.272539
+>>>ray id : 910 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.284085
+>>>ray id : 911 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.295667
+>>>ray id : 912 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.307285
+>>>ray id : 913 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.318938
+>>>ray id : 914 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.330626
+>>>ray id : 915 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.342351
+>>>ray id : 916 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.354111
+>>>ray id : 917 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.365907
+>>>ray id : 918 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.377739
+>>>ray id : 919 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.389607
+>>>ray id : 920 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.401511
+>>>ray id : 921 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.413451
+>>>ray id : 922 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.425428
+>>>ray id : 923 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.437440
+>>>ray id : 924 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.449489
+>>>ray id : 925 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.461575
+>>>ray id : 926 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.473697
+>>>ray id : 927 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.485855
+>>>ray id : 928 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.498050
+>>>ray id : 929 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.510282
+>>>ray id : 930 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.522551
+>>>ray id : 931 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.534856
+>>>ray id : 932 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.547199
+>>>ray id : 933 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.559578
+>>>ray id : 934 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.571994
+>>>ray id : 935 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.584448
+>>>ray id : 936 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.596939
+>>>ray id : 937 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.609467
+>>>ray id : 938 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.622032
+>>>ray id : 939 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.634635
+>>>ray id : 940 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.647275
+>>>ray id : 941 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.659953
+>>>ray id : 942 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.672669
+>>>ray id : 943 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.685422
+>>>ray id : 944 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.698214
+>>>ray id : 945 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.711043
+>>>ray id : 946 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.723910
+>>>ray id : 947 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.736815
+>>>ray id : 948 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.749758
+>>>ray id : 949 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.762739
+>>>ray id : 950 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.775759
+>>>ray id : 951 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.788817
+>>>ray id : 952 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.801914
+>>>ray id : 953 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.815049
+>>>ray id : 954 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.828222
+>>>ray id : 955 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.841434
+>>>ray id : 956 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.854685
+>>>ray id : 957 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.867975
+>>>ray id : 958 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.881304
+>>>ray id : 959 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.894672
+>>>ray id : 960 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.908078
+>>>ray id : 961 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.921524
+>>>ray id : 962 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.935010
+>>>ray id : 963 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.948534
+>>>ray id : 964 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.962098
+>>>ray id : 965 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.975702
+>>>ray id : 966 { north 1 south 0 west 0 east 0} 
+ray->distance = 27.989344
+>>>ray id : 967 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.003027
+>>>ray id : 968 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.016750
+>>>ray id : 969 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.030512
+>>>ray id : 970 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.044314
+>>>ray id : 971 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.058156
+>>>ray id : 972 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.072038
+>>>ray id : 973 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.085960
+>>>ray id : 974 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.099923
+>>>ray id : 975 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.113926
+>>>ray id : 976 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.127969
+>>>ray id : 977 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.142053
+>>>ray id : 978 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.156178
+>>>ray id : 979 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.170343
+>>>ray id : 980 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.184549
+>>>ray id : 981 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.198795
+>>>ray id : 982 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.213083
+>>>ray id : 983 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.227412
+>>>ray id : 984 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.241782
+>>>ray id : 985 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.256193
+>>>ray id : 986 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.270645
+>>>ray id : 987 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.285139
+>>>ray id : 988 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.299674
+>>>ray id : 989 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.314251
+>>>ray id : 990 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.328870
+>>>ray id : 991 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.343530
+>>>ray id : 992 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.358232
+>>>ray id : 993 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.372976
+>>>ray id : 994 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.387763
+>>>ray id : 995 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.402591
+>>>ray id : 996 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.417461
+>>>ray id : 997 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.432374
+>>>ray id : 998 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.447330
+>>>ray id : 999 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.462327
+>>>ray id : 1000 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.477368
+>>>ray id : 1001 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.492451
+>>>ray id : 1002 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.507577
+>>>ray id : 1003 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.522746
+>>>ray id : 1004 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.537957
+>>>ray id : 1005 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.553212
+>>>ray id : 1006 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.568510
+>>>ray id : 1007 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.583852
+>>>ray id : 1008 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.599236
+>>>ray id : 1009 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.614665
+>>>ray id : 1010 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.630137
+>>>ray id : 1011 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.645652
+>>>ray id : 1012 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.661211
+>>>ray id : 1013 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.676815
+>>>ray id : 1014 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.692462
+>>>ray id : 1015 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.708153
+>>>ray id : 1016 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.723889
+>>>ray id : 1017 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.739668
+>>>ray id : 1018 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.755492
+>>>ray id : 1019 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.771361
+>>>ray id : 1020 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.787274
+>>>ray id : 1021 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.803232
+>>>ray id : 1022 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.819235
+>>>ray id : 1023 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.835283
+>>>ray id : 1024 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.851376
+>>>ray id : 1025 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.867513
+>>>ray id : 1026 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.883697
+>>>ray id : 1027 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.899925
+>>>ray id : 1028 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.916199
+>>>ray id : 1029 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.932518
+>>>ray id : 1030 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.948883
+>>>ray id : 1031 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.965294
+>>>ray id : 1032 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.981751
+>>>ray id : 1033 { north 1 south 0 west 0 east 0} 
+ray->distance = 28.998254
+>>>ray id : 1034 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.014803
+>>>ray id : 1035 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.031398
+>>>ray id : 1036 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.048039
+>>>ray id : 1037 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.064727
+>>>ray id : 1038 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.081461
+>>>ray id : 1039 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.098242
+>>>ray id : 1040 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.115070
+>>>ray id : 1041 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.131945
+>>>ray id : 1042 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.148866
+>>>ray id : 1043 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.165835
+>>>ray id : 1044 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.182851
+>>>ray id : 1045 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.199914
+>>>ray id : 1046 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.217025
+>>>ray id : 1047 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.234183
+>>>ray id : 1048 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.251389
+>>>ray id : 1049 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.268643
+>>>ray id : 1050 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.285945
+>>>ray id : 1051 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.303295
+>>>ray id : 1052 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.320692
+>>>ray id : 1053 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.338139
+>>>ray id : 1054 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.355633
+>>>ray id : 1055 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.373176
+>>>ray id : 1056 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.390768
+>>>ray id : 1057 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.408408
+>>>ray id : 1058 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.426098
+>>>ray id : 1059 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.443836
+>>>ray id : 1060 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.461623
+>>>ray id : 1061 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.479460
+>>>ray id : 1062 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.497346
+>>>ray id : 1063 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.515282
+>>>ray id : 1064 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.533267
+>>>ray id : 1065 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.551302
+>>>ray id : 1066 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.569386
+>>>ray id : 1067 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.587521
+>>>ray id : 1068 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.605706
+>>>ray id : 1069 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.623941
+>>>ray id : 1070 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.642226
+>>>ray id : 1071 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.660562
+>>>ray id : 1072 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.678949
+>>>ray id : 1073 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.697386
+>>>ray id : 1074 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.715874
+>>>ray id : 1075 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.734413
+>>>ray id : 1076 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.753003
+>>>ray id : 1077 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.771645
+>>>ray id : 1078 { north 1 south 0 west 0 east 0} 
+ray->distance = 29.790338
+>>>ray id : 1079 { north 1 south 0 west 0 east 0} 
