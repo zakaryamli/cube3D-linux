@@ -80,4 +80,4 @@ int main(int ac, char **av)
 	mlx_hook(data.mlx_window, 2, 0, &keyfun, &data);
 	put_menu(&data);
 	mlx_loop(data.mlx_ptr);
-}
+	}

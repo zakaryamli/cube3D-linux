@@ -30,7 +30,7 @@
 # include <stdio.h>
 # include <unistd.h>
 # include <fcntl.h>
-# include "/home/yel-khad/Desktop/minilibx-linux/mlx.h"
+# include "/home/yel-khad/Desktop/minilib/mlx.h"
 # include <stdlib.h>
 # include <math.h>
 # include <stdbool.h>

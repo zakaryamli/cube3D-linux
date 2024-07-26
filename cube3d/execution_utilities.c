@@ -87,26 +87,26 @@ int key_hook(int keycode, t_map *map)
 	double temp_x = map->position_x;
 	double temp_y = map->position_y;
 	double move_speed = 4;// Adjust speed as needed
-	// printf("keycode %d\n", keycode);
+	printf("keycode %d\n", keycode);
 
-	if (keycode == 53)
+	if (keycode == 65307)
 	{
 		mlx_destroy_window(map->mlx, map->win);
 		exit(0);
 	}
-	else if (keycode == 13 || keycode == 126) // Forward
+	else if (keycode == 13 || keycode == 65362) // Forward
 	{
 		temp_x = map->position_x + cos(map->rotation_angle) * move_speed;
 		temp_y = map->position_y + sin(map->rotation_angle) * move_speed;
 	}
-	else if (keycode == 1 || keycode == 125) // Backward
+	else if (keycode == 1 || keycode == 65364) // Backward
 	{
 		temp_x = map->position_x - cos(map->rotation_angle) * move_speed;
 		temp_y = map->position_y - sin(map->rotation_angle) * move_speed;
 	}
-	else if (keycode == 124) // Rotate right
+	else if (keycode == 65363) // Rotate right
 		map->rotation_angle += ((M_PI / 180) * 4);
-	else if (keycode == 123) // Rotate left
+	else if (keycode == 65361) // Rotate left
 		map->rotation_angle -= ((M_PI / 180) * 4);
 	else if (keycode == 0) // Strafe left
 	{

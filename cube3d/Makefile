@@ -29,7 +29,6 @@ SRC_C =	tools/ft_isnum.c \
 		parsing_utilitis3.c \
 		parsing_utilitis4.c \
 		execution_utilities.c \
-		execution.c
 
 COMPILER = cc
 

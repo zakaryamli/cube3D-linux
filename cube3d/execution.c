@@ -271,8 +271,8 @@ static void draw_rays(t_map *map, double *rays) {
 	while (i < NUM_RAYS)
 	{
 		ray_facing(map, rays[i], i);
-		printf(">>>ray id : %d { north %d south %d west %d east %d} \n",i, map->ray[i].north_face,
-			map->ray[i].south_face, map->ray[i].west_face, map->ray[i].east_face);
+		// printf(">>>ray id : %d { north %d south %d west %d east %d}",i, map->ray[i].north_face,
+		// 	map->ray[i].south_face, map->ray[i].west_face, map->ray[i].east_face);
 		i++;
 	}
 
@@ -281,8 +281,9 @@ static void draw_rays(t_map *map, double *rays) {
 static void rays_handler(t_map *map)
 {
 	// Ray casting
+
 	map->distances = malloc(sizeof(double) * NUM_RAYS);
-	if (!map->rays_ang)
+	if (!map->distances)
 		exit(1);
 	map->rays_ang = malloc(sizeof(double) * NUM_RAYS);
 	if (!map->rays_ang)
@@ -297,6 +298,7 @@ static void rays_handler(t_map *map)
 		map->ray_angle += FOV / NUM_RAYS;
 		i++;
 	}
+
 
 	draw_rays(map, map->rays_ang);
 	// free(rays);
@@ -543,6 +545,7 @@ int ft_render_the_game(t_map *map)
 {
 
 	ceiling_floor(map);
+
 	mlx_clear_window(map->mlx, map->win);
 	rays_handler(map);
 	render3d(map);
@@ -590,7 +593,7 @@ int	execution(t_map map)
 			&map.img.bits_per_pixel, &map.img.line_length,
 			&map.img.endian);
 	find_player(&map);
-	mlx_hook(map.win, 2, 0, key_hook, &map);
+	mlx_hook(map.win, 2, 1L<<0, key_hook, &map);
 	map.height = get_map_rows(map.map);
 	map.width = get_map_columns(map.map);
 	printf("height = %d, width = %d\n", map.height, map.width);
